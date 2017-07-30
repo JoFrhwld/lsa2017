@@ -102,3 +102,8 @@
 #'
 #'
 "ay"
+
+
+#' @name ah_model_boot
+#' @title Bootstrap Replicates of an LME
+"ah_model_boot"
